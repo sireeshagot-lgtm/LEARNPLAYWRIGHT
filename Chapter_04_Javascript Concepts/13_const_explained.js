@@ -2,7 +2,7 @@
 //BASE_URL = "https:/ / staging.thetestingacademy.com";
 //TypeError: Assignment to constant variable.
 
-let name = "Pending";
+/*let name = "Pending";
 name = "done";
 console.log(name);
 {
@@ -14,3 +14,7 @@ function say() {
 }
 say();
 say();
+*/
+const a = 10;
+a = 20;
+console.log(a);

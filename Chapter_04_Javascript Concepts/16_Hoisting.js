@@ -17,3 +17,5 @@ console.log(greeting);
 console.log(a);
 var a = "Pramod";
 console.log(a);
+
+//In other languages, this is not posiible
