@@ -14,8 +14,8 @@ console.log(greeting);
 
 
 // var a;
-console.log(a);
-var a = "Pramod";
-console.log(a);
+//console.log(a);
+//var a = "Pramod";
+//console.log(a);
 
 //In other languages, this is not posiible

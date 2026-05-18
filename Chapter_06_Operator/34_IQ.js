@@ -1,0 +1,17 @@
+//compound operator
+
+let x = 10;
+x += 10;//x = x + 10
+console.log(x); //20
+
+x -= 3//x=x-3
+console.log(x); //17
+
+x *= 2//x=x*2
+console.log(x); //34
+
+x /= 2//x=x/2
+console.log(x); //17
+
+x %= 2//x=x%2
+console.log(x); //1 because 17 divided by 2 leaves a remainder of 1

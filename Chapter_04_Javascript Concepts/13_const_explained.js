@@ -1,8 +1,9 @@
-//const BASE_URL = "https://app.thetestingacademy.com";
-//BASE_URL = "https:/ / staging.thetestingacademy.com";
+const BASE_URL = "https://app.thetestingacademy.com";
+//const BASE_URL = "https://testingacademy.com";
+//BASE_URL = "https://staging.thetestingacademy.com";
 //TypeError: Assignment to constant variable.
 
-/*let name = "Pending";
+let name = "Pending";
 name = "done";
 console.log(name);
 {
@@ -11,10 +12,11 @@ console.log(name);
 }
 function say() {
     let name = "Dutta";
+    console.log(name)
 }
 say();
 say();
-*/
-const a = 10;
+
+/*const a = 10;
 a = 20;
-console.log(a);
+console.log(a);*/
