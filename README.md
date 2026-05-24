@@ -76,30 +76,44 @@ This repository contains beginner-friendly JavaScript examples and exercises org
   - `53_if_else_real.js`
   - `54_IQ.js`
   - `55_IE.js`
-  - `56_Even_Odd.js`
-  - `57_Grades.js`
-  - `58_Leap year.js`
-  - `59_http status code.js`
-  - `60_TC Pass_Fail.js`
-  - `61_Bug severity`
-  - `62_Build health`
-  - `63_Login_logout attempts.js`
+  - `56_Task1_Even_Odd.js`
+  - `57_Task2_Grades.js`
+  - `58_Task3_Leap year.js`
+  - `Task4_http status code.js`
+  - `Task5_TC Pass_Fail.js`
+  - `Task6_Bug severity.js`
+  - `Task7_Build health.js`
+  - `Task8_Login_logout attempts.js`
 
 - **Chapter_08_Switch statement** — Switch statements and cases
-  - `64_Switch.js`
-  - `65_No break.js`
-  - `66_Default.js`
-  - `67_Real time ex.js`
-  - `68_Switch_group.js`
-  - `69_IQ1.js`
-  - `70_IQ2.js`
-  - `71_IQ3.js`
-  - `72_IQ4.js`
+  - `59_Switch.js`
+  - `60_No break.js`
+  - `61_Default.js`
+  - `62_Real time ex.js`
+  - `63_Switch_group.js`
+  - `64_IQ1.js`
+  - `65_IQ2.js`
+  - `66_IQ3.js`
+  - `67_IQ4.js`
 
 - **Chapter_09_UserInput** — Reading user input
-  - `73_User Input.js`
-  - `74_Node_readline.js`
-  - `75_Prompt sync.js`
+  - `68_User Input.js`
+  - `69_Node_readline.js`
+  - `70_Prompt sync.js`
+
+- **Chapter_10_Loops** — Looping constructs (for, while, do-while)
+  - `71_for loop.js`
+  - `72_For loop1.js`
+  - `73_For loop2.js`
+  - `74_IQ.js`
+  - `75_For_of_in_each.js`
+  - `76_While.js`
+  - `77_Do_While.js`
+  - `78_Do While.js`
+  - `79_IQ.js`
+  - `80_IQ.js`
+  - `81_IQ.js`
+  - `82_IQ.js`
 
 ## Getting Started
 
@@ -126,6 +140,7 @@ This repository contains beginner-friendly JavaScript examples and exercises org
 - Conditional statements (`if`/`else` and `switch`)
 - Real-world examples and interview questions
 - Reading user input in Node.js
+- Loops (`for`, `while`, `do-while`) and related interview questions
 - Environment setup verification
 
 ## License
