@@ -13,4 +13,4 @@ var name = "Amit";
 //var pramod dutta = "hello";
 var pramod_dutta = "hello";
 var pramod$dutta = "hello";
-var pramodu1232 = "hello";
+var pramod1232 = "hello";

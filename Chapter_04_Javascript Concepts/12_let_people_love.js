@@ -16,7 +16,7 @@ if (testStatus === "pending") {
     let executionTime = 1200;
     console.log("Inside block:", executionTime);   // 1200
 }
-//console.log(executionTime); //ReferenceError: executionTime is not defined (becuase let is block scoped)
+//console.log(executionTime); //ReferenceError: executionTime is not defined (because let is block scoped)
 
 // {} - Block
 // if(){}

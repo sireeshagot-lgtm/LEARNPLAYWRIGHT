@@ -11,11 +11,14 @@ var Name = "Siri"
 var name = "Yuvi"
 console.log(Name)
 console.log(name)
-//var yuvan tej="123"
+//var yuvan tej = "123"
 var yuvi$tej = "Hello"
-var yuviu123 = "Helloyuvi"
+var yuvi123 = "Helloyuvi"
 console.log(yuvi$tej)
-console.log(yuviu123)
-// var yuvi_tej="Hi"
-// var yuvi_tej="Hi"
-// var yuvi_tej="Hi"
+console.log(yuvi123)
+var yuvi_tej = "i"
+console.log(yuvi_tej)
+var yuvi_tej = "H"
+console.log(yuvi_tej)
+var yuvi_tej = "Hi"
+console.log(yuvi_tej)
