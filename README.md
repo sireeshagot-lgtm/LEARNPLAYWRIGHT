@@ -115,6 +115,31 @@ This repository contains beginner-friendly JavaScript examples and exercises org
   - `81_IQ.js`
   - `82_IQ.js`
 
+- **Chapter_11_Arrays** — Array creation, manipulation, and operations
+  - `83_Arrays.js`
+  - `84_Arrays.js`
+  - `85_Access arrays.js`
+  - `86_Arrays_Add_Remove.js`
+  - `87_Adding_Remove.js`
+  - `88_Real Example.js`
+  - `89_Searching.js`
+  - `90_Iterate.js`
+  - `91_Arrays.js`
+  - `91_Transform_Array.js`
+  - `93_Arrays_Slicing.js`
+  - `94_Concat Array.js`
+  - `95_Array checking.js`
+
+- **Chapter_12_Functions** — Function declarations, types, and arrow functions
+  - `96_Functions.js`
+  - `97_Type 1_func_basic.js`
+  - `98_Type 2_func_with param_no return.js`
+  - `99_Type 3_Func_without param_Return type.js`
+  - `100_Type 4_fn_with param_return type.js`
+  - `101_Template Literal.js`
+  - `102_Fn_Expression.js`
+  - `103_Arrow_fn.js`
+
 ## Getting Started
 
 1. Make sure you have [Node.js](https://nodejs.org/) installed, or use your browser's developer console.
@@ -141,6 +166,8 @@ This repository contains beginner-friendly JavaScript examples and exercises org
 - Real-world examples and interview questions
 - Reading user input in Node.js
 - Loops (`for`, `while`, `do-while`) and related interview questions
+- Arrays (creation, manipulation, searching, slicing, concatenation)
+- Functions (declarations, expressions, arrow functions, parameters, return types)
 - Environment setup verification
 
 ## License
