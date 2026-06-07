@@ -9,6 +9,7 @@ let undefinedvalue = undefined//undefined literal, represents a variable that ha
 console.log(typeof age);//string
 console.log(typeof year);//number
 console.log(typeof isAdult);//boolean
-console.log(typeof message);
-console.log(typeof null);
-console.log(typeof undefined)
+console.log(typeof message);//string
+console.log(typeof null); //object
+console.log(typeof undefined) //undefined
+console.log(typeof pi) 
