@@ -5,6 +5,7 @@ const c = 3.3;
 var browser = "chrome"
 var browser = "firefox";//redeclaration of var is allowed
 browser = "edge";//reassignment of var is allowed
+console.log(browser)
 
 var testCases = ["login", "logout", "signup"];
 
@@ -12,8 +13,12 @@ for (var i = 0; i < testCases.length; i++) {
     console.log("Running test:", testCases[i]);
 }
 
-console.log("Loop counter leaked outside:", i);//it prints 3, but it should not happen. Many laguages do not allow this, but JavaScript does because of var's function scope.   
+console.log("Loop counter leaked outside:", i);
+
+//it prints 3, but it should not happen. 
+// Many laguages do not allow this, but JavaScript does because of var's function scope.   
 //Funny example given related to maid working in one house will not be available in another house.
+
 console.log("Hi");
 console.log("Hi");
 console.log("Hi");

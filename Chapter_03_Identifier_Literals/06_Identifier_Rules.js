@@ -14,3 +14,5 @@ var name = "Amit";
 var pramod_dutta = "hello";
 var pramod$dutta = "hello";
 var pramod1232 = "hello";
+
+console.log(pramod_dutta)

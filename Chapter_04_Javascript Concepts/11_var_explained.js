@@ -5,7 +5,8 @@ console.log(a);
 
 function printHello() {
     console.log("Hello The Testing Academy")
-    var a = 20; //Local scope , it is different from global scope 'a'(Example given related to Pramod from local place and from outside place. When wife calls Pramod, local will come).
+    var a = 20; //Local scope , it is different from global scope 'a'
+    // (Example given related to Pramod from local place and from outside place. When wife calls Pramod, local will come).
     console.log(a);//20
     if (true) {
         var a = 30;
